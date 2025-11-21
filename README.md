@@ -58,6 +58,6 @@ Setelah selesai, file-file berikut akan tersimpan di Google Drive:
 
 Jika mengalami masalah saat menjalankan kode, hubungi:
 
-- Nama: [NAMA LU]
-- NIM: [NIM LU]
-- Email: [EMAIL LU]
+- Nama: Garland Wijaya
+- NIM: 122140001
+- Email: garland.122140001@student.itera.ac.id
